@@ -35,7 +35,7 @@ const App = () => {
               </Box>
 
             </nav>
-            <Button variant="outlined" color="inherit">Login</Button>
+            <Button variant="outlined" sx={{fontWeight: 'bold',textTransform: 'capitalize'}}>Login</Button>
 
           </Toolbar>
 
